@@ -16,7 +16,11 @@ public class App
 	    Log.info("hi");
 	    Log.info("test");
 	    Log.info("aaaa");
+<<<<<<< HEAD
+	    Log.info("feature-demo branch");
+=======
 	    Log.info("made conflict");
+>>>>>>> master
         System.out.println( "Hello World!" );
     }
 }
