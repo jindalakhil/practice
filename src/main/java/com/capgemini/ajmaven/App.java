@@ -14,11 +14,9 @@ public class App
     {
 	    Log.info("bye");
 	    Log.info("hi");
-<<<<<<< HEAD
 	    Log.info("test");
-=======
 	    Log.info("aaaa");
->>>>>>> 4792a408ee1c7faf864dc244ad5678f8feb035a7
+	    Log.info("feature-demo branch");
         System.out.println( "Hello World!" );
     }
 }
