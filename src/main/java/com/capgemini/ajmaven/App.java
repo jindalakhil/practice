@@ -14,6 +14,7 @@ public class App
     {
 	    Log.info("bye");
 	    Log.info("hi");
+	    Log.info("test");
         System.out.println( "Hello World!" );
     }
 }
