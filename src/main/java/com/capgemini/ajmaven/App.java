@@ -12,6 +12,7 @@ public class App
 	private static final Logger LOG = LogManager.getLogger(App.class);
     public static void main( String[] args )
     {
+	    Log.info("Hi");
         System.out.println( "Hello World!" );
     }
 }
